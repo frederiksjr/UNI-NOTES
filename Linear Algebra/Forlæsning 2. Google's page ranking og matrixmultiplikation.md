@@ -16,7 +16,7 @@ Multiply the row numbers 1 by into the column 1 by 1 i.e $$1 \cdot 2 + 2 \cdot 3
 ![[Pasted image 20250428140133.png]]
 m: mængden af rækker
 n: mængden af viabler i.e I: 2 (1 og 1)
-A: mængden af ikke 0 3tal i sidste søjle inden stregen
+A: mængden af ikke 0    tal i sidste søjle inden stregen
 M: mængden af ikke 0 tal i søjlen efter stregen
 
 
