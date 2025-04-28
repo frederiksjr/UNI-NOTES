@@ -12,6 +12,14 @@ Multiply the rows by the column
 ![[Pasted image 20250428134650.png]]
 Multiply -2 into the column and then add it together afterwards I.E -2 * -1 = 2 so we would say 1 +2
 ![[Pasted image 20250428135409.png]]
-Multiply the row numbers 1 by into the column 1 by 1 i.e $1 $
+Multiply the row numbers 1 by into the column 1 by 1 i.e $$1 \cdot 2 + 2 \cdot 3 + 5 \cdot 1 = 13$$
+![[Pasted image 20250428140133.png]]
+m: mængden af rækker
+n: mængden af viabler i.e I: 2 (1 og 1)
+A: mængden af ikke 0 tal i sidste søjle inden stregen
+M: mængden af ikke 0 tal i søjlen efter stregen
+
+
+
 
 
