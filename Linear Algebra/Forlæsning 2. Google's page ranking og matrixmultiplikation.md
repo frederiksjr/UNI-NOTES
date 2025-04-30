@@ -21,6 +21,9 @@ M: mængden af ikke 0 tal i søjlen efter stregen
 ![[Pasted image 20250430092129.png]]
 The first set of 1 and 0 is the 1-2 and the other set is the 3-4-5
 A kvadratic matrix is a matrix that has the same amount of rows as columns so an nxn matrix
+![[Pasted image 20250430093036.png]]
+called an "enhedsmatrice" because all the lambda lines er 1
+for an kvadratic matrix you can multiply "A" (the matrix) by itself since it has the same number of rows and columns
 
 
 
