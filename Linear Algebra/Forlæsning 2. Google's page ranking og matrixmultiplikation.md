@@ -25,6 +25,13 @@ A kvadratic matrix is a matrix that has the same amount of rows as columns so an
 called an "enhedsmatrice" because all the lambda lines er 1
 for an kvadratic matrix you can multiply "A" (the matrix) by itself since it has the same number of rows and columns
 
+## Inverse matrix
+Basically divide matrixes
+![[Pasted image 20250430094608.png]]
+Stands for A inverse ALWAYS WRITE IT LIKE THIS
+![[Pasted image 20250430094954.png]]
+This seems obvious BUT remember to SWITCH them so you dont write 
+
 
 
 
