@@ -18,7 +18,9 @@ m: mængden af rækker
 n: mængden af viabler i.e I: 2 (1 og 1)
 A: mængden af ikke 0    tal i sidste søjle inden stregen
 M: mængden af ikke 0 tal i søjlen efter stregen
-
+![[Pasted image 20250430092129.png]]
+The first set of 1 and 0 is the 1-2 and the other set is the 3-4-5
+A kvadratic matrix is a matrix that has the same amount of rows as columns so an nxn matrix
 
 
 
