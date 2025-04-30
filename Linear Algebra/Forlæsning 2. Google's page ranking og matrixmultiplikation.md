@@ -30,7 +30,7 @@ Basically divide matrixes
 ![[Pasted image 20250430094608.png]]
 Stands for A inverse ALWAYS WRITE IT LIKE THIS
 ![[Pasted image 20250430094954.png]]
-This seems obvious BUT remember to SWITCH them so you dont write 
+This seems obvious BUT remember to SWITCH them so you dont write A⁻1B⁻1
 
 
 
